@@ -1,5 +1,8 @@
 # Conclusion
 
+Chapter 10: Conclusion
+======================
+
 In this book, we have explored the power of turning your flaws into fuel for personal growth. We have discussed the benefits of embracing our weaknesses, techniques for leveraging them for growth, and strategies for overcoming obstacles and challenges.
 
 Recap of Key Concepts
