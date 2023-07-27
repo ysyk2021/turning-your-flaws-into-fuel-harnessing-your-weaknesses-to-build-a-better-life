@@ -1,4 +1,4 @@
-Chapter 2: What are Flaws and Weaknesses?
+What are Flaws and Weaknesses?
 =========================================
 
 In this chapter, we will explore the concepts of flaws and weaknesses. Understanding these terms is essential as we delve into the process of harnessing them to build a better life. Let's explore what flaws and weaknesses truly mean.
