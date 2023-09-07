@@ -36,3 +36,5 @@
   - [Techniques for applying the strategies and tactics learned from turning your flaws into fuel to your own life journey](chapter-9-1.md)
   - [How to create a personalized roadmap for personal growth](chapter-9-2.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
